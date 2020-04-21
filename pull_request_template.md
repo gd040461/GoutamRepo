@@ -2,13 +2,6 @@
 
 ### With Husky
 
-E.g., using [Husky][husky-url].
-
-```json
-"scripts": {
-  "commitmsg": "validate-commit-msg"
-}
-```
 
 ### From CLI
 
